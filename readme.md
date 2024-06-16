@@ -6,8 +6,9 @@ Project to build a pipeline to process streaming data
 
 ### Prerequisites
 
-The things you need before installing the software.
+The things you need before running.
 
+* Docker
 * Python 3.12
 * Apache Kafka
 * Apache Spark 3.4.5
